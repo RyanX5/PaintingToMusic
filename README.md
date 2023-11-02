@@ -19,7 +19,7 @@ This project was a part of HONORS ARTS class final paper, at **Univeristy of Lou
 
 None of the theories used to make the program is scientifically recognized or proven, including the sound-color correspondance. I highly encourage you to read the [article](https://www.flutopedia.com/sound_color.htm) yourself to draw your own conclusions.
 
-## Futher Improvements
+## Further Improvements
 
 1. Make the usage seamless by turning the program into a commandline script, that allows the user to set the parameters easily.
 2. Make it so that the sounds are played in a scale (Major, Harmonic, etc) so that they sound more musical and not chromatic.
